@@ -92,7 +92,7 @@ src/
 
 This codebase is designed to be a springboard for more sophisticated face-driven applications. Here are some potential extensions:
 
-<img src="./public/media/example" alt="Demo" width="800" />
+<img src="./public/media/example.gif" alt="Example" width="800" />
 
 - **3D Face Effects**: Use the detected landmarks to drive morph targets (blendshapes) on 3D character models
 - **Face Filters**: Create Snapchat-style AR filters using the precise landmark data
